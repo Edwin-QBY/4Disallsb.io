@@ -2,7 +2,7 @@
 <html lang="zh-CN">
 <body>
     <input type="file" id="fileInput">
-    <img id="previewImg" alt="预览图片">
+    <img src="https://ani.hinson.azz.io/Image/20250917-0cefb23e-IMG 0469.jpeg" alt="作業照片- 2025年09月17日*>
     <script>
         const fileInput = document.getElementById('fileInput');
         const previewImg = document.getElementById('previewImg');
