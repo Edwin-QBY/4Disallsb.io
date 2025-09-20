@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <body>
+     <html lang="zh-Hant">
      <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>家課冊 2025年09月19日</title>
+    <歡迎來到我的網站！>
+             <h1>家課冊 2025年09月19日</h1>
 </head>
      <a href="https://hinson.qzz.io/cms/">點我前往[正版家課冊]</a>
    <div id="image-container" class="image-container"> 
