@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
              <h1>4D家課冊</h1>
           最新更新日期21/9 溫馨提示:
-          <h3>!!英文GV test(22/9)!!<a href="https://github.com/Edwin-QBY/4Disallsb.io/blob/main/bc5eedc1-f2b8-45d3-8906-517b30eecad7.jpg?raw=true">點我看詳情</a></h3>
+          <h3>!!英文GV test(22/9)!!<a href="https://media-hkg1-1.cdn.whatsapp.net/v/t61.24694-24/534414773_2188744884956938_2649074433169960425_n.jpg?ccb=11-4&oh=01_Q5Aa2gET92PQ7n9GntVRoGdi9maD6l19z9Z1RSz_HUW4BwvxvA&oe=68DD0287&_nc_sid=5e03e0&_nc_cat=106">點我看詳情</a></h3>
           <p> 中文背默岳陽樓記一二段(24/9)</p>
            <h2>圖片更新日期19/9</font></h2>
    <div id="image-container" class="image-container"> 
